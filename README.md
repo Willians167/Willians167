@@ -57,8 +57,8 @@ Sou apaixonado por soluções escaláveis. Atualmente, curso **Ciências da Comp
 
 ## 📊 Estatísticas<p align="center">
   <p align="center">
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Willians167&theme=radical" alt="Willians's GitHub Streaks" />
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Willians167&show_icons=true&theme=radical" alt="Willians's GitHub stats" />
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Willians167&sshow_icons=true&theme=radical" alt="Willians's GitHub Streaks" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Willians167&show_icons=true&theme=radical"&include_all_commits=true&count alt="Willians's GitHub stats" />
 
 </p>
 
