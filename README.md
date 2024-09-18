@@ -3,7 +3,7 @@
 ## 👨‍💻 Desenvolvedor .NET 
 Sou apaixonado por soluções escaláveis. Atualmente, curso **Ciencias da Computação** na **Universidade Anhebi Morumbi** e estou me especializando em **APIs RestFull**, **DevOps** , ** Clean Code **, **Banco de Dados**, **Azure**, e **Blazor** para me tornar o desenvolvedor Full Cicle.
 
-- 🔭 Estou trabalhando com Backend
+- 🔭 Estou trabalhando em um projeto end to end Freelancer, construindo e-commerce para loja de cosméticos, para um representante de vendas.
 - 🌱 Estou estudando Devops e Front end
 - 👯 Estou procurando colaborar com projetos diversos e desafiadores.
 - 😄 Pronomes: Ele/Dele
