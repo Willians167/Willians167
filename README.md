@@ -1,7 +1,7 @@
 ## Olá eu sou o Will 👋
 
 ## 👨‍💻 Desenvolvedor .NET 
-Sou apaixonado por soluções escaláveis. Atualmente, curso **Ciências da Computação* na **Universidade Anhebi Morumbi* e estou me especializando em **APIs RestFull*, **DevOps** , **Clean Code**, **Banco de Dados**, **Azure**, e **Blazor** para me tornar o desenvolvedor Full Cicle.
+Sou apaixonado por soluções escaláveis. Atualmente, curso **Ciências da Computação** na **Universidade Anhebi Morumbi** e estou me especializando em **APIs RestFull*, **DevOps** , **Clean Code**, **Banco de Dados**, **Azure**, e **Blazor** para me tornar o desenvolvedor Full Cicle.
 
 - 🔭 Estou trabalhando em um projeto end to end Freelancer, construindo e-commerce para loja de cosméticos, para um representante de vendas.
 - 🌱 Estou estudando toda plataforma .NET pela Balta.io para refinar o conhecimento , bem como **Frontend* e seus frameworks.
@@ -55,19 +55,18 @@ Sou apaixonado por soluções escaláveis. Atualmente, curso **Ciências da Comp
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas<p align="center">
+  <p align="center">
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Willians167&theme=radical" alt="Willians's GitHub Streaks" />
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Willians167&show_icons=true&theme=radical" alt="Willians's GitHub stats" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Willians167&show_icons=true&theme=radical" alt="Willians's GitHub stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Willians167&theme=radical" alt="Willians's GitHub Streaks">
+    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willians167&layout=compact&theme=radical" alt="Top Languages" />
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willians167&layout=compact&theme=radical" alt="Top Languages">
-</p>
 
 ---
 
