@@ -1,4 +1,4 @@
-## Olá eu sou Will 👋
+## Olá eu sou o Will 👋
 
 ## 👨‍💻 Desenvolvedor .NET 
 Sou apaixonado por soluções escaláveis. Atualmente, Curso **Ciencia da Computação** na **Universidade Anhebi Morumbi** e estou me especializando em **APIs**, **DevOps** e **Blazor** para me tornar o desenvolvedor Full Cicle. Tenho experiência com landing pages, Blazor WebAssembly, MVC , Nodejs entre outras tecnologias.
