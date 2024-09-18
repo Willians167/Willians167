@@ -1,7 +1,7 @@
 ## Olá eu sou o Will 👋
 
 ## 👨‍💻 Desenvolvedor .NET 
-Sou apaixonado por soluções escaláveis. Atualmente, Curso **Ciencia da Computação** na **Universidade Anhebi Morumbi** e estou me especializando em **APIs**, **DevOps** e **Blazor** para me tornar o desenvolvedor Full Cicle. Tenho experiência com landing pages, Blazor WebAssembly, MVC , Nodejs entre outras tecnologias.
+Sou apaixonado por soluções escaláveis. Atualmente, curso **Ciencias da Computação** na **Universidade Anhebi Morumbi** e estou me especializando em **APIs**, **DevOps** e **Blazor** para me tornar o desenvolvedor Full Cicle. Tenho experiência com landing pages, Blazor WebAssembly, MVC , Nodejs entre outras tecnologias.
 ---
 
 - 🔭 Estou trabalhando com Backend
@@ -84,7 +84,7 @@ Sou apaixonado por soluções escaláveis. Atualmente, Curso **Ciencia da Comput
 - **Tecnologias**: AspNet Core, Xunit, Visual Studio, C#.
 - **Destaque**: Boas Práticas em TDD.
 
-### [Frontend - Réplica do Jogo Dino Google](https://github.com/Willians167/Jogo-do-Dino)
+### [Frontend - Jogo Dino do Google](https://github.com/Willians167/Jogo-do-Dino)
 - **Descrição**: Página com aplicatção de técnicas coom animação e efeito palalax.
 - **Tecnologias**: javascipt, html , css, Visula Studio Code
 - **Destaque**:  Lógica de Progrmação , e contrução de projeto sem frameworks .
