@@ -79,7 +79,7 @@ Sou apaixonado por soluções escaláveis. Atualmente, curso **Ciencias da Compu
 - **Tecnologias**: ASP.NET Core, React, JWT, Mysql, xUnit
 - **Destaque**:  autênticação de administrador .
 
-### [Calculadora - Desenvolvimento volta a Testes](https://github.com/Willians167/Blindando-Codigo-com-TDD-e-Testes-Unitarios-Csharp)
+### [Calculadora - Desenvolvimento voltado a Testes](https://github.com/Willians167/Blindando-Codigo-com-TDD-e-Testes-Unitarios-Csharp)
 - **Descrição**: Este é um projeto de exemplo que demonstra a abordagem do Desenvolvimento Orientado a Testes (TDD) e a implementação de Testes Unitários em C# para uma aplicação de calculadora simples..
 - **Tecnologias**: AspNet Core, Xunit, Visual Studio, C#.
 - **Destaque**: Boas Práticas em TDD.
