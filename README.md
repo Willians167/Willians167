@@ -1,7 +1,7 @@
 ## Olá eu sou o Will 👋
 
 ## 👨‍💻 Desenvolvedor .NET 
-Sou apaixonado por soluções escaláveis. Atualmente, curso **Ciencias da Computação** na **Universidade Anhebi Morumbi** e estou me especializando em **APIs RestFull**, **DevOps** , ** Clean Code **, **Banco de Dados**, **Azure**, e ** Blazor** para me tornar o desenvolvedor Full Cicle.
+Sou apaixonado por soluções escaláveis. Atualmente, curso **Ciencias da Computação** na **Universidade Anhebi Morumbi** e estou me especializando em **APIs RestFull**, **DevOps** , ** Clean Code **, **Banco de Dados**, **Azure**, e **Blazor** para me tornar o desenvolvedor Full Cicle.
 
 - 🔭 Estou trabalhando com Backend
 - 🌱 Estou estudando Devops e Front end
