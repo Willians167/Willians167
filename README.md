@@ -16,6 +16,11 @@ Sou focado em soluções escaláveis. Atualmente, curso **Ciências da Computaç
 
 
 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Willians167&repo=Willians167&theme=react)](https://github.com/Willians167/Willians167)![image](https://github.com/user-attachments/assets/b5ea49d1-e8ac-47f0-b4bc-5b0b67b740d7)
+
+
+
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/willianscostapaulino" style="margin-right: 40px;">
