@@ -1,19 +1,21 @@
 ## Olá eu sou o Will 👋
 
-<h1> <p>👨‍💻 Desenvolvedor <img height="37em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /></p></h1></p>
-
+<h1> <p>👨‍💻 Desenvolvedor .NET </p></h1></p>
+<p>
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+   <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
+   <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+   <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" />
+          
+</p>
 Sou focado em soluções escaláveis. Atualmente, curso **Ciências da Computação** na **Universidade Anhebi Morumbi** e estou me especializando em **APIs RestFull*, **DevOps** , **Clean Code**, **Banco de Dados**, **Azure**, e **Blazor** para me tornar o desenvolvedor Full Cicle.
 
 
 - 📬 Contato
-📧 **Email**: [prwillians.costa@gmail.com](mailto:prwillians.costa@gmail.com)  
-📱 **Telefones**: (13) 98206-0378 | (13) 99151-0973  
-🌍 **Localização**: Brasil  
-
----
-
-![Snake animation](https://github.com/Willians167/Willians167/blob/output/github-contribution-grid-snake-dark.svg)
-
+- 📧 **Email**: [prwillians.costa@gmail.com](mailto:prwillians.costa@gmail.com)  
+- 📱 **Telefones**: (13) 98206-0378 | (13) 99151-0973  
+ 
 ---
 <p align="center">
   <a href="https://www.linkedin.com/in/willianscostapaulino" style="margin-right: 40px;">
@@ -32,6 +34,11 @@ Sou focado em soluções escaláveis. Atualmente, curso **Ciências da Computaç
 
 
 ---
+
+
+![Snake animation](https://github.com/Willians167/Willians167/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
 ## 🔧 Tecnologias e Ferramentas
 
 <p align="center">
@@ -46,9 +53,6 @@ Sou focado em soluções escaláveis. Atualmente, curso **Ciências da Computaç
   <img src="https://img.shields.io/badge/xUnit-5B2C6F?style=for-the-badge&logo=xunit&logoColor=white" alt="xUnit">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ">
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
-  <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
