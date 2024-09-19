@@ -9,7 +9,6 @@
    <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" />
           
 </p>
-Sou focado em soluções escaláveis. Atualmente, curso **Ciências da Computação** na **Universidade Anhebi Morumbi** e estou me especializando em **APIs RestFull*, **DevOps** , **Clean Code**, **Banco de Dados**, **Azure**, e **Blazor** para me tornar o desenvolvedor Full Cicle.
 
 
 - 📬 Contato
@@ -18,6 +17,8 @@ Sou focado em soluções escaláveis. Atualmente, curso **Ciências da Computaç
  
 ---
 <p align="center">
+  <a  href="prwillians.costa@gmail.com" styke="margin-rigth: 40px;">
+    
   <a href="https://www.linkedin.com/in/willianscostapaulino" style="margin-right: 40px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -39,6 +40,8 @@ Sou focado em soluções escaláveis. Atualmente, curso **Ciências da Computaç
 ![Snake animation](https://github.com/Willians167/Willians167/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
+## Sobre
+Sou focado em soluções escaláveis. Atualmente, curso **Ciências da Computação** na **Universidade Anhebi Morumbi** e estou me especializando em **APIs RestFull*, **DevOps** , **Clean Code**, **Banco de Dados**, **Azure**, e **Blazor** para me tornar o desenvolvedor Fullstack.
 ## 🔧 Tecnologias e Ferramentas
 
 <p align="center">
