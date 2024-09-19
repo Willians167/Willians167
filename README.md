@@ -12,7 +12,7 @@ Sou focado em soluções escaláveis. Atualmente, curso **Ciências da Computaç
 
 ---
 
-![Snake animation](https://github.com/Willians167/Willians167/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Willians167/Willians167/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 <p align="center">
