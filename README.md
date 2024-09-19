@@ -10,13 +10,13 @@ Sou focado em soluções escaláveis. Atualmente, curso **Ciências da Computaç
 📱 **Telefones**: (13) 98206-0378 | (13) 99151-0973  
 🌍 **Localização**: Brasil  
 
----
+
 
 ![Snake animation](https://github.com/Willians167/Willians167/blob/output/github-contribution-grid-snake.svg)
 
 
 
----
+
 <p align="center">
   <a href="https://www.linkedin.com/in/willianscostapaulino" style="margin-right: 40px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
