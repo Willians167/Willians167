@@ -55,8 +55,7 @@ Sou focado em soluções escaláveis. Atualmente, curso **Ciências da Computaç
 </p>
 
 ---
-![Snake animation](https://github.com/Willians167/Willians167/blob/output/dist/snake.svg)
-
+![snake gif](https://github.com/Willians167/Willians167/blob/output/github-contribution-grid-snake.svg)
 
 ## 📊 Estatísticas<p align="center">
   <p align="center">
