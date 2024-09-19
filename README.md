@@ -1,18 +1,8 @@
 ## Olá eu sou o Will 👋
 
-<h1> <p>👨‍💻 Desenvolvedor <img height="37em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /></p></h1>
+<h1> <p>👨‍💻 Desenvolvedor <img height="37em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /></p></h1></p>
 
-
-                                       
-
-
-
-
-
-
-
-</p>
-Sou apaixonado por soluções escaláveis. Atualmente, curso **Ciências da Computação** na **Universidade Anhebi Morumbi** e estou me especializando em **APIs RestFull*, **DevOps** , **Clean Code**, **Banco de Dados**, **Azure**, e **Blazor** para me tornar o desenvolvedor Full Cicle.
+Sou focado em soluções escaláveis. Atualmente, curso **Ciências da Computação** na **Universidade Anhebi Morumbi** e estou me especializando em **APIs RestFull*, **DevOps** , **Clean Code**, **Banco de Dados**, **Azure**, e **Blazor** para me tornar o desenvolvedor Full Cicle.
 
 - 🔭 Estou trabalhando em um projeto end to end Freelancer, construindo e-commerce para loja de cosméticos, para um representante de vendas.
 - 🌱 Estou estudando toda plataforma .NET pela Balta.io para refinar o conhecimento , bem como **Frontend* e seus frameworks.
