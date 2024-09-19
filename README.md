@@ -71,9 +71,9 @@ Sou apaixonado por soluções escaláveis. Atualmente, curso **Ciências da Comp
 ---
 ### 💼 Porfólio
 
-### [Repositório com principais experiêcias](https://github.com/Willians167/Portifolio)
-- **Descrição**: Aqui estão meus principais projetos, demonstrando algumas de minhas habilidades.
-- **Sempre em construção.
+### [Principais experiêcias](https://github.com/Willians167/Portifolio)
+- **Descrição**: Aqui estão projetos, demonstrando algumas de minhas habilidades.
+- **Sempre em construção**.
 ---
 ## 💼 Projetos Recentes
 
