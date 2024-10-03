@@ -13,7 +13,7 @@
 
 - 📬 Contato
 - 📧 **Email**: [prwillians.costa@gmail.com](mailto:prwillians.costa@gmail.com)  
-- 📱 **Telefones**: (13) 98206-0378 | (13) 99151-0973  
+- 📱 **Telefones**: (13) 98206-0378 | (13) 99151-0973 |
  
 ---
 <p align="center">
