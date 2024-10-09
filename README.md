@@ -50,6 +50,8 @@
 Sou focado em soluções escaláveis. Atualmente, curso **Ciências da Computação** na **Universidade Anhebi Morumbi** e estou me especializando em **APIs RestFull*, **DevOps** , **Clean Code**, **Banco de Dados**, **Azure**, e **Blazor** para me tornar o desenvolvedor Fullstack.
 ## 🔧 Tecnologias e Ferramentas
 
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
@@ -68,17 +70,6 @@ Sou focado em soluções escaláveis. Atualmente, curso **Ciências da Computaç
 </p>
 
 ---
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## 📊 Estatísticas<p align="center">
