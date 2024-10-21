@@ -1,6 +1,6 @@
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=4000&pause=1000&color=00ced1&center=true&vCenter=true&random=false&width=435&lines=Olá+Mundo!;Eu+sou+Willians+Costa;Sou+Desenvolvedor+.NET;E+aspirante+a+Java)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=4000&pause=1000&color=00ced1&center=true&vCenter=true&random=false&width=435&lines=Olá+Mundo!;Eu+sou+Willians+Costa;Sou+Desenvolvedor+.NET)](https://git.io/typing-svg)
 
 ---
 <p>
