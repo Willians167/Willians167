@@ -43,7 +43,6 @@
 ---
 
 
-![Snake animation](https://github.com/Willians167/Willians167/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 ## Sobre
