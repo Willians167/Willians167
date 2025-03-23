@@ -18,7 +18,8 @@
 
 
 - 📬 Contato
-- 📧 **Email**: [prwillians.costa@gmail.com](mailto:prwillians.costa@gmail.com)  
+- 📧 **Email**: [prwillians.costa@gmail.com](mailto:prwillians.costa@gmail.com)
+-  📧 **Email**: [willians.paulino@gft.com](mailto:willians.paulino@gft.com)  
 - 📱 **Telefones**: (13) 98206-0378 | (13) 99151-0973 |
  
 ---
