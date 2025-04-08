@@ -51,6 +51,7 @@
 Sou focado em soluções escaláveis. Atualmente, curso **Ciências da Computação** na **Universidade Anhebi Morumbi** e estou me especializando em **APIs RestFull*, **DevOps** , **Clean Code**, **Banco de Dados**, **Azure**, e **Blazor** para me tornar o desenvolvedor Fullstack.
 ## 🔧 Tecnologias e Ferramentas
 
+![snake gif](https://github.com/Willians167/output/blob/main/github-contribution-grid-snake.gif)
 
 
 <p align="center">
