@@ -15,6 +15,7 @@
   <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </p>
+
 ![snake gif](https://github.com/Willians167/output/blob/main/github-contribution-grid-snake.gif)
 
 
