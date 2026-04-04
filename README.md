@@ -16,7 +16,11 @@
   <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </p>
 
-![snake gif](https://github.com/Willians167/output/blob/main/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Willians167/Willians167/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Willians167/Willians167/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Willians167/Willians167/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 - 📬 Contato
@@ -52,7 +56,11 @@
 Sou focado em soluções escaláveis. Atualmente, curso **Ciências da Computação** na **Universidade Anhebi Morumbi** e estou me especializando em **APIs RestFull*, **DevOps** , **Clean Code**, **Banco de Dados**, **Azure**, e **Blazor** para me tornar o desenvolvedor Fullstack.
 ## 🔧 Tecnologias e Ferramentas
 
-![snake gif](https://github.com/Willians167/output/blob/main/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Willians167/Willians167/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Willians167/Willians167/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Willians167/Willians167/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 <p align="center">
