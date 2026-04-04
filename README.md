@@ -55,12 +55,12 @@ Desenvolvedor **.NET** focado em soluções escaláveis. Cursando **Ciências da
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Willians167&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d0d2b&title_color=00ffff&text_color=7fffff&icon_color=00ffff&border_color=00cccc" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Willians167&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=86400&bg_color=0d0d2b&title_color=00ffff&text_color=aaffff&icon_color=00ffff&border_color=00cccc" alt="GitHub Stats" />
   <img height="160em" src="https://streak-stats.demolab.com/?user=Willians167&background=0d0d2b&stroke=00cccc&ring=00ffff&fire=00ffff&currStreakNum=00ffff&sideNums=00ffff&currStreakLabel=00cccc&sideLabels=00cccc&dates=7fffff" alt="GitHub Streaks" />
 </div>
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willians167&layout=compact&hide_border=false&bg_color=0d0d2b&title_color=00ffff&text_color=7fffff&border_color=00cccc" alt="Top Languages" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willians167&layout=compact&hide_border=false&cache_seconds=86400&bg_color=0d0d2b&title_color=00ffff&text_color=aaffff&border_color=00cccc" alt="Top Languages" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00cccc&height=2" />
