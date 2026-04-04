@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=500&lines=Olá+Mundo!;Eu+sou+Willians+Costa;Sou+Desenvolvedor+.NET;%2F%2F+Always+Progressing...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=500&lines=Olá+Mundo!;Eu+sou+Willians+Costa;Sou+Desenvolvedor+.NET;🤖+AI+%26+Copilot+User;%2F%2F+Always+Progressing...)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willianscostapaulino)
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d2b?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/Willians167)
@@ -25,14 +25,85 @@ Desenvolvedor **.NET** focado em soluções escaláveis. Cursando **Ciências da
 - 🧪 **Clean Code** e **TDD**
 - 🗄️ **SQL Server**, **MySQL** e **MongoDB**
 - 🖥️ **Blazor** (Fullstack .NET)
+- 🤖 **GitHub Copilot**, **Claude** e **ChatGPT** no dia a dia
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00cccc&height=2" />
 
-## 🔧 Tecnologias e Ferramentas
+## 🔧 Skill Tree — Clique para expandir
+
+<details open>
+<summary><b>⚙️ Backend & .NET</b></summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor&theme=dark" />
+</div>
+</details>
+
+<details>
+<summary><b>☁️ DevOps & Cloud</b></summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=azure,docker,linux,github&theme=dark" />
+</div>
+</details>
+
+<details>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+</div>
+</details>
+
+<details>
+<summary><b>🌐 Frontend</b></summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" />
+</div>
+</details>
+
+<details>
+<summary><b>🛠️ Ferramentas</b></summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark" />
+</div>
+</details>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00cccc&height=2" />
+
+## 🤖 Inteligência Artificial
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,docker,linux,mysql,mongodb,github,js,html,css,vscode,visualstudio&theme=dark&perline=7" alt="Skill Icons" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=GitHub+Copilot+%E2%86%92+pair+programmer+de+IA;Claude+%E2%86%92+raciocínio+e+arquitetura;ChatGPT+%E2%86%92+brainstorm+e+documentação;Azure+OpenAI+%E2%86%92+IA+em+produção)](https://git.io/typing-svg)
+
 </div>
+
+<div align="center">
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=00ffff)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+</div>
+
+<details>
+<summary><b>📊 AI Skill Stats — Clique para ver</b></summary>
+<br>
+
+| 🤖 Ferramenta | Experiência | Uso |  
+|---|---|---|
+| GitHub Copilot | `██████████` MAX | Diário — autocomplete, chat, reviews |
+| Claude (Anthropic) | `█████████░` LVL 9 | Arquitetura, debugging, raciocínio |
+| ChatGPT / OpenAI | `████████░░` LVL 8 | Brainstorm, documentação, SQL |
+| Azure OpenAI | `███████░░░` LVL 7 | APIs cognitivas, integração .NET |
+| Hugging Face | `█████░░░░░` LVL 5 | Modelos open-source, experimentos |
+
+</details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00cccc&height=2" />
 
