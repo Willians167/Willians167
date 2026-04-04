@@ -31,23 +31,7 @@ Desenvolvedor **.NET** focado em soluções escaláveis. Cursando **Ciências da
 ## 🔧 Tecnologias e Ferramentas
 
 <div align="center">
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![xUnit](https://img.shields.io/badge/xUnit-5B2C6F?style=for-the-badge&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,docker,linux,mysql,mongodb,github,js,html,css,vscode,visualstudio&theme=dark&perline=7" alt="Skill Icons" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00cccc&height=2" />
@@ -56,6 +40,10 @@ Desenvolvedor **.NET** focado em soluções escaláveis. Cursando **Ciências da
 
 <div align="center">
   <img height="160em" src="https://streak-stats.demolab.com/?user=Willians167&background=0d0d2b&stroke=00cccc&ring=00ffff&fire=00ffff&currStreakNum=00ffff&sideNums=00ffff&currStreakLabel=00cccc&sideLabels=00cccc&dates=7fffff" alt="GitHub Streaks" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Willians167&theme=matrix&column=7&margin-w=8&margin-h=8&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00cccc&height=2" />
@@ -68,6 +56,14 @@ Desenvolvedor **.NET** focado em soluções escaláveis. Cursando **Ciências da
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Willians167/Willians167/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Willians167/Willians167/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Willians167/Willians167/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Willians167&bg_color=0d0d2b&color=00ffff&line=00cccc&point=aaffff&area=true&area_color=00cccc&hide_border=false&custom_title=Gr%C3%A1fico%20de%20Atividade" alt="Activity Graph" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00cccc&height=2" />
@@ -93,5 +89,13 @@ Desenvolvedor **.NET** focado em soluções escaláveis. Cursando **Ciências da
 - Consolidar expertise em **APIs, arquitetura de software** e **Frontend**
 - Me tornar desenvolvedor **Fullstack .NET**
 - Contribuir para projetos **open-source**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00cccc&height=2" />
+
+## 💬 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00cccc,100:0d0d2b&height=120&section=footer" />

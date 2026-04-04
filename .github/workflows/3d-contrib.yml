@@ -1,0 +1,42 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 2 * * *" # Executa todos os dias às 02:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D contribution graph
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Willians167
+          SETTING_JSON: |
+            {
+              "githubUserName": "Willians167",
+              "startForegroundColor": "#00ffff",
+              "endForegroundColor": "#00cccc",
+              "backgroundColor": "#0d0d2b",
+              "dotColor": "#00ffff",
+              "lineColor": "#00cccc"
+            }
+
+      - name: Push 3D graph to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: profile-3d-contrib
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
