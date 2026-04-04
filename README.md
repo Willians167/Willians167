@@ -59,10 +59,6 @@ Desenvolvedor **.NET** focado em soluções escaláveis. Cursando **Ciências da
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Willians167/Willians167/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Willians167&bg_color=0d0d2b&color=00ffff&line=00cccc&point=aaffff&area=true&area_color=00cccc&hide_border=false&custom_title=Gr%C3%A1fico%20de%20Atividade" alt="Activity Graph" />
 </div>
 
