@@ -1,8 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:003333,100:00cccc&height=220&section=header&text=Willians%20Costa&fontSize=52&fontColor=00ffff&animation=twinkling&fontAlignY=38&desc=.NET%20Developer%20%7C%20AI-Assisted%20Engineering&descAlignY=58&descSize=18&descColor=aaffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:001a33,100:00cccc&height=220&section=header&text=Willians%20Costa&fontSize=52&fontColor=00ffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cloud-Native%20.NET%20%7C%20AI-Assisted%20Development&descAlignY=58&descSize=16&descColor=aaffff" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=22&duration=3500&pause=900&color=00FFFF&center=true&vCenter=true&width=640&lines=🤖+AI-Assisted+.NET+Developer;☁️+Azure+%7C+DevOps+%7C+Clean+Architecture;🧪+TDD+%7C+DDD+%7C+REST+APIs;%2F%2F+Building+the+future%2C+one+commit+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=00FFFF&center=true&vCenter=true&width=720&lines=Designing+scalable+systems+with+clean+architecture;Cloud-native+engineering+on+Azure+%2B+.NET;AI-assisted+development+%7C+TDD+%7C+DDD;Building+production-grade+software%2C+one+commit+at+a+time)](https://git.io/typing-svg)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willianscostapaulino)
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d2b?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/Willians167)
@@ -10,134 +12,88 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/will167)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prwillians.costa@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Willians167&color=00ffff&style=for-the-badge&label=Visitas+ao+perfil)
+![Profile Views](https://komarev.com/ghpvc/?username=Willians167&color=00ffff&style=for-the-badge&label=Profile+Views)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00cccc&height=2" />
+---
 
-## � Terminal Interativo
-
-> *Clique em cada comando para executar*
-
-<details>
-<summary><code>$ whoami</code></summary>
+## $ whoami
 
 ```bash
-╔══════════════════════════════════════════════════════════╗
-║        WILLIANS COSTA — DEVELOPER PROFILE v2.0           ║
-╚══════════════════════════════════════════════════════════╝
-  Name     : Willians Costa
-  Role     : .NET Developer | AI-Assisted Engineer
-  Location : Santos, SP — Brasil
-  Status   : 🟢 Open to new challenges
-  Focus    : Scalable APIs · Clean Architecture · AI Tools
-  Quote    : "Transformando ideias complexas em software elegante."
+┌──────────────────────────────────────────────────────────────────┐
+│             WILLIANS COSTA  ·  Software Engineer                 │
+├──────────────────────────────────────────────────────────────────┤
+│  Role      →  .NET Engineer | Cloud-Native | AI-Assisted Dev     │
+│  Location  →  Santos, SP — Brazil                                │
+│  Education →  Computer Science · Anhembi Morumbi University      │
+│  Status    →  🟢 Open to new challenges                          │
+│  Focus     →  Scalable APIs · Clean Architecture · DevOps        │
+│  Mindset   →  "Elegant code is engineering, not coincidence."    │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
-</details>
+I design and build **cloud-native .NET systems** with a strong emphasis on clean architecture, testability, and operational excellence. My workflow integrates AI tools natively — not as a shortcut, but as a force multiplier for engineering quality and velocity.
 
-<details>
-<summary><code>$ skills --list</code></summary>
+---
 
-```bash
-$ skills --list
+## 🏗️ Engineering Focus
 
-[Backend]     ██████████  C# · ASP.NET Core · Blazor
-[Cloud]       █████████░  Azure · DevOps · Docker
-[Database]    ████████░░  SQL Server · MySQL · MongoDB
-[Frontend]    ██████░░░░  JavaScript · HTML · CSS
-[AI Tools]    █████████░  Copilot · Claude · ChatGPT
-[Testing]     ████████░░  xUnit · TDD · Clean Tests
-[Practices]   █████████░  Clean Code · DDD · SOLID
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</details>
+**Backend & APIs**
+- RESTful & Minimal APIs with ASP.NET Core
+- Domain-Driven Design · CQRS · Event-driven patterns
+- JWT authentication · Role-based access control
 
-<details>
-<summary><code>$ projects --featured</code></summary>
+**Quality Engineering**
+- TDD — Red → Green → Refactor discipline
+- xUnit · Clean Tests · Integration testing
+- SOLID · Clean Code · Refactoring mindset
 
-```bash
-$ projects --featured
+</td>
+<td width="50%" valign="top">
 
- ID  NAME                          STACK                    STATUS
- ──  ────────────────────────────  ───────────────────────  ────────
- 01  Vehicle Catalog API           ASP.NET Core+JWT+MySQL   ✅ LIVE
- 02  TDD Calculator                C# + xUnit               ✅ LIVE
- 03  Google Dino Clone             JS + HTML + CSS          ✅ LIVE
- 04  [CLASSIFIED]                  Microservices + Azure    🔒 WIP
-```
+**Cloud & DevOps**
+- Azure (App Services, Functions, Storage, Key Vault)
+- Docker · CI/CD with Azure DevOps & GitHub Actions
+- Infrastructure as Code · Secrets management
 
-</details>
+**AI-Assisted Workflow**
+- GitHub Copilot · Claude · ChatGPT as pair programmers
+- Azure OpenAI for production LLM integrations
+- Prompt engineering for architecture & code review
 
-<details>
-<summary><code>$ run ai-workflow</code></summary>
+</td>
+</tr>
+</table>
 
-```bash
-$ run ai-workflow
+---
 
-[INFO]  Initializing AI-Assisted Development Pipeline...
-[OK]    ChatGPT       → idea validation & architecture draft
-[OK]    Claude        → deep reasoning & code review
-[OK]    Copilot       → real-time code generation
-[OK]    Azure OpenAI  → production AI integration
-[DONE]  Pipeline ready. Building solution...
-        ████████████████████████ 100% — Deploy successful ✅
-```
+## 🛠️ Technology Stack
 
-</details>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00cccc&height=2" />
-
-## 👨‍💻 Sobre mim
-
-Desenvolvedor **.NET** focado em soluções escaláveis. Cursando **Ciências da Computação** na **Universidade Anhembi Morumbi**, especializado em construir sistemas limpos, testáveis e orientados a arquitetura.
-
-- 🚀 **APIs RESTful** com ASP.NET Core · Minimal APIs
-- ☁️ **Azure** · DevOps · Docker · CI/CD
-- 🧪 **Clean Code** · TDD · DDD · SOLID
-- 🗄️ **SQL Server** · MySQL · MongoDB
-- 🖥️ **Blazor** — rumo ao Fullstack .NET
-- 🤖 **GitHub Copilot** · Claude · ChatGPT no workflow diário
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00cccc&height=2" />
-
-## 🔧 Skill Tree
-
-<details open>
-<summary><b>⚙️ Backend & .NET</b></summary>
-<br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor&theme=dark" />
+
+**Core**&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cs,dotnet,blazor&theme=dark" />
+
+**Cloud & DevOps**&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=azure,docker,linux,github&theme=dark" />
+
+**Data**&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+
+**Frontend**&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" />
+
 </div>
-</details>
+
+<br/>
 
 <details>
-<summary><b>☁️ DevOps & Cloud</b></summary>
-<br>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=azure,docker,linux,github&theme=dark" />
-</div>
-</details>
-
-<details>
-<summary><b>🗄️ Databases</b></summary>
-<br>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-</div>
-</details>
-
-<details>
-<summary><b>🌐 Frontend</b></summary>
-<br>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" />
-</div>
-</details>
-
-<details>
-<summary><b>🤖 AI Tools</b></summary>
+<summary><b>🤖 AI Toolchain</b></summary>
 <br>
 <div align="center">
 
@@ -150,84 +106,127 @@ Desenvolvedor **.NET** focado em soluções escaláveis. Cursando **Ciências da
 </div>
 </details>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00cccc&height=2" />
+---
 
-## 🎮 Developer RPG Stats
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  WILLIANS167                               CLASS: .NET Mage      ║
-║                                                                  ║
-║  [ LVL ] ████████████████████░░░░░░  78 / 100 XP                ║
-║                                                                  ║
-║  ⚔️  C# / ASP.NET Core         MAX  ██████████████████████████  ║
-║  🛡️  Clean Architecture         LVL9 ████████████████████████░  ║
-║  🔮  Azure / Cloud              LVL8 ███████████████████████░░  ║
-║  🤖  AI-Assisted Dev            LVL9 ████████████████████████░  ║
-║  🧪  TDD / Testing              LVL8 ███████████████████████░░  ║
-║  🌐  Blazor / Frontend          LVL7 █████████████████████░░░░  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<details>
-<summary><b>🏆 Conquistas — Clique para expandir</b></summary>
-<br>
-
-| Status | Conquista | Descrição |
-|:---:|---|---|
-| ✅ | **API Architect** | APIs RESTful com JWT, segurança e boas práticas |
-| ✅ | **Test Warrior** | TDD com cobertura de testes em C# e xUnit |
-| ✅ | **Cloud Rider** | Deploy na Azure com pipelines CI/CD |
-| ✅ | **AI Native** | Copilot, Claude e ChatGPT integrados ao workflow |
-| ✅ | **Container Captain** | Aplicações containerizadas com Docker |
-| ✅ | **Open Source Dev** | Projetos públicos ativos no GitHub |
-| 🔒 | **Microservices Architect** | *Unlock: build a distributed system with 3+ services* |
-| 🔒 | **SaaS Builder** | *Unlock: deploy a SaaS product with real users* |
-| 🔒 | **AI Product Creator** | *Unlock: ship a product powered by LLMs in production* |
-
-</details>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00cccc&height=2" />
-
-## 🤖 AI Workflow
+## 🤖 AI-Assisted Engineering Pipeline
 
 ```mermaid
 flowchart LR
-    A([💡 Ideia]) --> B[ChatGPT\nValidação]
-    B --> C[Claude\nArquitetura]
-    C --> D[ASP.NET Core\nCódigo]
-    D --> E[Copilot\nAceleração]
-    E --> F[xUnit\nTestes TDD]
-    F --> G{Code Review}
-    G -->|❌ Refactor| D
-    G -->|✅ Approved| H[Azure DevOps\nCI/CD]
-    H --> I([🚀 Deploy])
+    A([💡 Concept]) --> B[ChatGPT\nIdeation &\nValidation]
+    B --> C[Claude\nArchitecture\nDesign]
+    C --> D[ASP.NET Core\nImplementation]
+    D --> E[Copilot\nCode\nAcceleration]
+    E --> F[xUnit\nTDD Cycle]
+    F --> G{Quality\nGate}
+    G -->|refactor| D
+    G -->|approved| H[Azure DevOps\nCI/CD Pipeline]
+    H --> I([🚀 Production])
     style A fill:#0d0d2b,stroke:#00ffff,color:#00ffff
     style I fill:#0d0d2b,stroke:#00ffff,color:#00ffff
-    style B fill:#003333,stroke:#00cccc,color:#aaffff
-    style C fill:#003333,stroke:#00cccc,color:#aaffff
-    style D fill:#003333,stroke:#00cccc,color:#aaffff
-    style E fill:#003333,stroke:#00cccc,color:#aaffff
-    style F fill:#003333,stroke:#00cccc,color:#aaffff
+    style B fill:#001a33,stroke:#00cccc,color:#aaffff
+    style C fill:#001a33,stroke:#00cccc,color:#aaffff
+    style D fill:#001a33,stroke:#00cccc,color:#aaffff
+    style E fill:#001a33,stroke:#00cccc,color:#aaffff
+    style F fill:#001a33,stroke:#00cccc,color:#aaffff
     style G fill:#1a0030,stroke:#9933ff,color:#ddaaff
-    style H fill:#003333,stroke:#00cccc,color:#aaffff
+    style H fill:#001a33,stroke:#00cccc,color:#aaffff
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00cccc&height=2" />
+---
 
-## 📊 Estatísticas do GitHub
+## 💼 Featured Projects
+
+<details>
+<summary><b>🔐 Vehicle Catalog API — Production-grade REST API</b></summary>
+<br>
+
+> A high-performance RESTful service for vehicle fleet catalog management, built with Minimal API architecture, JWT role-based authorization, and a comprehensive xUnit test suite.
+
+**Engineering highlights:**
+- Minimal API design for low-overhead routing and high throughput
+- JWT authentication with role-based access control
+- MySQL persistence with Entity Framework Core
+- Containerized with Docker; CI pipeline triggered on every push
+
+**Stack:** `ASP.NET Core` · `Minimal API` · `JWT` · `MySQL` · `xUnit` · `Docker`
+
+[![View Repository](https://img.shields.io/badge/View_Repository-0d0d2b?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/Willians167/Trabalhando-com-minimal-Apis-AspNetCore)
+
+</details>
+
+<details>
+<summary><b>🧪 TDD Calculator — Red · Green · Refactor discipline</b></summary>
+<br>
+
+> A reference implementation of Test-Driven Development in .NET, demonstrating the full Red → Green → Refactor cycle with high test coverage, behavior-driven naming, and clean abstractions.
+
+**Engineering highlights:**
+- Strict TDD discipline with xUnit and fluent assertions
+- Demonstrates test isolation, AAA pattern, and edge-case coverage
+- Blueprint for engineering teams adopting TDD practices
+
+**Stack:** `C#` · `ASP.NET Core` · `xUnit`
+
+[![View Repository](https://img.shields.io/badge/View_Repository-0d0d2b?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/Willians167/Blindando-Codigo-com-TDD-e-Testes-Unitarios-Csharp)
+
+</details>
+
+<details>
+<summary><b>🦕 Chrome Dino Clone — Vanilla JS game engine</b></summary>
+<br>
+
+> A zero-dependency recreation of Chrome's offline dinosaur game, built with pure JavaScript, CSS animations, and a custom parallax scrolling engine.
+
+**Engineering highlights:**
+- Custom game loop with `requestAnimationFrame` for smooth 60fps rendering
+- Collision detection and procedural difficulty scaling
+- CSS parallax layer system for visual depth and immersion
+
+**Stack:** `JavaScript` · `HTML5` · `CSS3`
+
+[![View Repository](https://img.shields.io/badge/View_Repository-0d0d2b?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/Willians167/Jogo-do-Dino)
+
+</details>
+
+---
+
+## 📈 Engineering Timeline
+
+```
+2021 ──┬── 🌱 Foundation — HTML, CSS, JavaScript
+        │   The first line of code changes everything.
+        │
+2022 ──┼── ⚡ .NET Deep Dive — C#, ASP.NET Core, SQL Server
+        │   Discovered the elegance of backend systems and the power of the .NET ecosystem.
+        │
+2023 ──┼── 🏗️  Architecture & Quality — Clean Code, TDD, DDD
+        │   Writing code is easy. Writing great code is engineering.
+        │
+2024 ──┼── ☁️  Cloud & DevOps — Azure, Docker, CI/CD pipelines
+        │   Code that doesn't ship doesn't exist. Learned to deliver reliably.
+        │
+2025 ──┼── 🤖 AI-Native Workflow — Copilot, Claude, ChatGPT as daily tools
+        │   AI doesn't replace engineers. It amplifies those who know how to use it.
+        │
+2026 ──┴── 🚀 Now — Fullstack .NET, AI-integrated systems, always shipping
+            "Building to scale. Learning to transform."
+```
+
+---
+
+## 📊 GitHub Metrics
 
 <div align="center">
-  <img height="160em" src="https://streak-stats.demolab.com/?user=Willians167&background=0d0d2b&stroke=00cccc&ring=00ffff&fire=00ffff&currStreakNum=00ffff&sideNums=00ffff&currStreakLabel=00cccc&sideLabels=00cccc&dates=7fffff" alt="GitHub Streaks" />
+  <img height="165em" src="https://streak-stats.demolab.com/?user=Willians167&background=0d0d2b&stroke=00cccc&ring=00ffff&fire=00ffff&currStreakNum=00ffff&sideNums=00ffff&currStreakLabel=00cccc&sideLabels=00cccc&dates=7fffff" alt="GitHub Streaks" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Willians167&theme=matrix&column=7&margin-w=8&margin-h=8&no-bg=true" alt="GitHub Trophies" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00cccc&height=2" />
+---
 
-## 🐍 Contribuições
+## 🐍 Contribution Graph
 
 <div align="center">
   <picture>
@@ -238,105 +237,19 @@ flowchart LR
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Willians167&bg_color=0d0d2b&color=00ffff&line=00cccc&point=aaffff&area=true&area_color=00cccc&hide_border=false&custom_title=Gr%C3%A1fico%20de%20Atividade" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Willians167&bg_color=0d0d2b&color=00ffff&line=00cccc&point=aaffff&area=true&area_color=00cccc&hide_border=false&custom_title=Contribution+Activity" alt="Activity Graph" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00cccc&height=2" />
+---
 
-## � Pipeline Status
+## 🚀 Current Focus
 
-> *Estado atual dos projetos e automações ativas*
+- Deepening expertise in **distributed systems, microservices architecture**, and **event-driven design**
+- Building toward **Fullstack .NET** with production Blazor applications
+- Shipping **AI-integrated products** with Azure OpenAI in production
+- Contributing to **open-source** within the .NET ecosystem
 
-| | Pipeline | Branch | Status | Frequência |
-|:---:|---|:---:|:---:|:---:|
-| 🟢 | **Vehicle Catalog API** | `main` | `PASSING` | on push |
-| 🟢 | **TDD Calculator** | `main` | `PASSING` | on push |
-| 🟢 | **Dino Game** | `main` | `PASSING` | on push |
-| 🔵 | **Snake Animation** | `output` | `SCHEDULED` | 00:00 · daily |
-| 🔵 | **3D Contrib Graph** | `output` | `SCHEDULED` | 02:00 · daily |
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00cccc&height=2" />
-
-## 📖 Minha Jornada
-
-```
-2021 ──┬── 🌱 Primeiros passos — HTML, CSS, JavaScript
-        │   "A primeira linha de código muda tudo."
-        │
-2022 ──┼── ⚡ Mergulho no .NET — C#, ASP.NET Core, SQL Server
-        │   Descobri a elegância do back-end e a potência do ecossistema Microsoft.
-        │
-2023 ──┼── 🏗️  Arquitetura & Qualidade — Clean Code, TDD, DDD
-        │   Percebi que escrever código é fácil; escrever bom código é uma arte.
-        │
-2024 ──┼── ☁️  Cloud & DevOps — Azure, Docker, CI/CD pipelines
-        │   Código que não vai pra produção não existe. Aprendi a entregar.
-        │
-2025 ──┼── 🤖 Era da IA — GitHub Copilot, Claude, ChatGPT no workflow
-        │   IA não substitui o dev; amplifica quem sabe usá-la.
-        │
-2026 ──┴── 🚀 Hoje — Fullstack .NET, AI-Assisted, sempre evoluindo
-            "Construindo para escalar. Aprendendo para transformar."
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00cccc&height=2" />
-
-## 💼 Projetos em Destaque
-
-<details>
-<summary><b>🚗 Vehicle Catalog API — Minimal API com JWT e CRUD completo</b></summary>
-<br>
-
-> API RESTful de alta performance para gerenciamento de catálogo de veículos, com controle de acesso baseado em roles e testes unitários abrangentes.
-
-**Propósito:** Demonstrar domínio de Minimal APIs, autenticação segura e boas práticas em .NET.
-
-`ASP.NET Core` · `Minimal API` · `JWT` · `MySQL` · `xUnit` · `Docker`
-
-[![Ver Repositório](https://img.shields.io/badge/Ver%20Repositório-0d0d2b?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/Willians167/Trabalhando-com-minimal-Apis-AspNetCore)
-
-</details>
-
-<details>
-<summary><b>🧪 TDD Calculator — Desenvolvimento 100% orientado a testes</b></summary>
-<br>
-
-> Projeto de referência em TDD, demonstrando o ciclo Red → Green → Refactor com testes unitários robustos em C#.
-
-**Propósito:** Consolidar e demonstrar domínio de Test-Driven Development no ecossistema .NET.
-
-`C#` · `ASP.NET Core` · `xUnit` · `Visual Studio`
-
-[![Ver Repositório](https://img.shields.io/badge/Ver%20Repositório-0d0d2b?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/Willians167/Blindando-Codigo-com-TDD-e-Testes-Unitarios-Csharp)
-
-</details>
-
-<details>
-<summary><b>🦕 Google Dino Clone — Lógica de jogo sem frameworks</b></summary>
-<br>
-
-> Recriação do jogo do dinossauro do Chrome com animações CSS e efeito parallax, desenvolvida do zero sem frameworks.
-
-**Propósito:** Demonstrar fundamentos sólidos de JavaScript, lógica de programação e manipulação do DOM.
-
-`JavaScript` · `HTML5` · `CSS3` · `Parallax`
-
-[![Ver Repositório](https://img.shields.io/badge/Ver%20Repositório-0d0d2b?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/Willians167/Jogo-do-Dino)
-
-</details>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00cccc&height=2" />
-
-## 🚀 Objetivos
-
-- Consolidar expertise em **APIs, arquitetura de software** e **Frontend**
-- Me tornar desenvolvedor **Fullstack .NET**
-- Construir produtos com **IA integrada em produção**
-- Contribuir para projetos **open-source**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00cccc&height=2" />
-
-## 💬 Dev Quote
+---
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
