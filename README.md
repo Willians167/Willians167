@@ -255,4 +255,4 @@ flowchart LR
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00cccc,100:0d0d2b&height=120&section=footer&text=Always+Progressing&fontColor=00ffff&fontSize=22&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00cccc,100:0d0d2b&height=120&section=footer&text=Always%20Progressing&fontColor=00ffff&fontSize=22&fontAlignY=65" />
